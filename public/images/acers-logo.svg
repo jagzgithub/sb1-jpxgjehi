@@ -1,0 +1,27 @@
+<svg width="400" height="500" viewBox="0 0 400 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Border rectangle -->
+  <rect x="50" y="50" width="300" height="400" stroke="#8B7355" stroke-width="2" fill="none"/>
+  
+  <!-- Semi-circular top -->
+  <path d="M175 150 A 25 25 0 0 1 225 150" stroke="#8B7355" stroke-width="2" fill="none"/>
+  
+  <!-- Letter A structure -->
+  <path d="M200 150 L125 350 M200 150 L275 350" stroke="#8B7355" stroke-width="2" fill="none"/>
+  
+  <!-- Colorful feathers -->
+  <!-- Yellow feather -->
+  <path d="M140 200 L190 350" stroke="#FFD700" stroke-width="20" stroke-linecap="round"/>
+  
+  <!-- Orange feather -->
+  <path d="M160 200 L200 350" stroke="#FFA500" stroke-width="20" stroke-linecap="round"/>
+  
+  <!-- Red feather -->
+  <path d="M200 200 L220 350" stroke="#FF4136" stroke-width="20" stroke-linecap="round"/>
+  
+  <!-- Purple feather -->
+  <path d="M240 200 L240 350" stroke="#B10DC9" stroke-width="20" stroke-linecap="round"/>
+  
+  <!-- Text -->
+  <text x="200" y="420" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="48" fill="#8B7355">ACERS</text>
+  <text x="200" y="450" text-anchor="middle" font-family="Arial" font-size="24" fill="#8B7355">BADMINTON CLUB</text>
+</svg>
